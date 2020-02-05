@@ -6,7 +6,7 @@
         noroff-nuxt-app
       </h1>
       <h2 class="subtitle">
-        My terrific Nuxt.js project
+        Bunnii
       </h2>
       <div class="links">
         <a
